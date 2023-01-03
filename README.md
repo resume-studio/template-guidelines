@@ -4,6 +4,7 @@
 - Grid: 4 pts
 - Minimum font size: 11 pts
 - Size: 595 pts x 842 pts
+- Experiences goes before Education
 
 ## Sections
 
