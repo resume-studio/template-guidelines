@@ -6,13 +6,13 @@ Guidelines for designing a resume template for ResumeStudio.
 
 Requirements:
 - Size: 595 pts x 842 pts ;
-- Font: any from [Google Fonts](https://fonts.google.com/) ;
-- Minimum font size: 11pts ;
+- Font: any from [Google Fonts](https://fonts.google.com/) (preferably widely-used ones with support for many languages) ;
+- Minimum font size: 11 pts ;
 - Grid: 4 pts.
 
 ## Sections
 
-All fields/sections are optional ➡️ a missing field/section should not break the design. There's no need to design every option. However, the behavior should be predictable enough.
+All fields/sections are optional ➡️ a missing field/section should not break the design. There's no need to design every option, just to make the behavior predictable enough. If not obvious, make a note.
 
 ### Personal details
 
@@ -63,7 +63,7 @@ No. of items: 0 or more.
 
 ## Content
 
-Pick a book/film character and use his life details (name, place of birth, etc.) as placeholders. Make it subtle: avoid child movies, blockbusters, and stuff like that (for example no *Harry Potter* or *Captain America*). The resume should be designed with a specific job in mind, use that to come up with an appropriate employer name, degree title, etc. Use [lorems](https://www.lipsum.com/) for descriptions.
+Pick a book/film character and use his life details (name, place of birth, etc.) as placeholders. Make it subtle: avoid child movies, blockbusters, and stuff like that (for example no *Harry Potter* or *Captain America*). The resume should be designed with a specific job in mind, use that to come up with  appropriate employer names, degree titles, etc. Use [lorems](https://www.lipsum.com/) for descriptions.
 
 ## Process
 
@@ -78,9 +78,10 @@ Articles that'll eventually elevate your mind and undoubtedly make you design be
 - [6 Resume Design Tips and Examples](https://blog.fiverr.com/post/6-resume-design-tips-and-examples) ;
 - [How to Design Your Résumé: 15 Formatting and Layout Tips](https://www.careeraddict.com/resume-design).
 
-## Deliverable
+## Deliverables
 
-Figma file.
+- Figma file ;
+- Note for developer (if necessary).
 
 ## Stuck?
 
