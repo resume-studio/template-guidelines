@@ -1,6 +1,6 @@
-# template-requirements
+# template-guidelines
 
-Requirements for ResumeStudio's resume templates.
+Guidelines for designing ResumeStudio's resume templates.
 
 > Hi friend 👋🏻 You'll find here everything you need to know about designing a resume template for ResumeStudio. In case you don't know, ResumeStudio is a web editor for job seekers to create an outstanding and standards-compliant resume in minutes. 
 
