@@ -12,7 +12,7 @@ Requirements:
 
 ## Sections
 
-All fields/sections are optional ➡️ a missing field/section should not break the design.
+All fields/sections are optional ➡️ a missing field/section should not break the design. There's no need to design every option. However, the behavior should be predictable enough.
 
 ### Personal details
 
