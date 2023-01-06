@@ -74,6 +74,10 @@ Articles that'll eventually elevate your mind and undoubtedly make you design be
 - [6 Resume Design Tips and Examples](https://blog.fiverr.com/post/6-resume-design-tips-and-examples) ;
 - [How to Design Your Résumé: 15 Formatting and Layout Tips](https://www.careeraddict.com/resume-design).
 
+## Resources
+
+Fichier Figma.
+
 ## Stuck?
 
 If you have any questions, just let me know: [theophile@resume.studio](mailto:theophile@resume.studio).
