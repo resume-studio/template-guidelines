@@ -63,7 +63,7 @@ No. of items: 0 or more.
 
 ## Content
 
-Pick a book/film character and use his life details (name, place of birth, etc.) as placeholders. Make it subtle: avoid kids' movies, blockbusters, and stuff like that (for example no *Harry Potter* or *Captain America*). The resume should be designed with a specific job in mind, use that to come up with  appropriate employer names, degree titles, etc. Use [lorems](https://www.lipsum.com/) for descriptions.
+Use English 🇺🇸. Pick a book/film character and use his life details (name, place of birth, etc.) as placeholders. Make it subtle: avoid kids' movies, blockbusters, and stuff like that (for example no *Harry Potter* or *Captain America*). The resume should be designed with a specific job in mind, use that to come up with  appropriate employer names, degree titles, etc. Use [lorems](https://www.lipsum.com/) for descriptions.
 
 ## Process
 
