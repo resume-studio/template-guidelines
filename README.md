@@ -61,6 +61,10 @@ No. of items: 0 or more.
 | Level | `1`, `2`, `3`, `4`, or `5` | `3`                 |
 | Title | String                     | `"Problem Solving"` |
 
+## Content
+
+Pick a book/film character and use his life details (name, place of birth, etc.) as placeholders. Make it subtle: avoid child movies, blockbusters, and stuff like that (for example no *Harry Potter* or *Captain America*). The resume should be designed with a specific job in mind, use that to come up with an appropriate employer name, degree title, etc. Use [lorems](https://www.lipsum.com/) for descriptions.
+
 ## Process
 
 1. You go out there and get us 2-3 references ;
