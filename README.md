@@ -1,20 +1,18 @@
 # template-guidelines
 
-Guidelines for designing ResumeStudio's resume templates.
-
-> Hi friend 👋🏻 You'll find here everything you need to know about designing a resume template for ResumeStudio. In case you don't know, ResumeStudio is a web editor for job seekers to create an outstanding and standards-compliant resume in minutes. 
+Guidelines for designing a resume template for ResumeStudio.
 
 ## Document
 
 Requirements:
-- Size: 595pts x 842pts
-- Font: any from [Google Fonts](https://fonts.google.com/)
-- Minimum font size: 11pts
-- Grid: 4pts
+- Size: 595 pts x 842 pts ;
+- Font: any from [Google Fonts](https://fonts.google.com/) ;
+- Minimum font size: 11pts ;
+- Grid: 4 pts.
 
 ## Sections
 
-All fields/sections are optional, so a missing field/section should not break the design.
+All fields/sections are optional ➡️ a missing field/section should not break the design.
 
 ### Personal details
 
@@ -27,9 +25,12 @@ All fields/sections are optional, so a missing field/section should not break th
 | LinkedIn URL  | String | `"https://linkedin.com/in/..."`    |
 | Location      | String | `"Donnafugata, Italia"`            |
 | Phone number  | String | `"+39 012 3456789"`                |
+| Photo ID      | String | `"0DsOUyGntnXzQz4YSDIC"`           |
 | Summary       | String | `"I'm a Finance Director from..."` |
 
 ### Professional experiences
+
+No. of items: 0 or more.
 
 | Field       | Type   | Example                 |
 | ----------- | ------ | ----------------------- |
@@ -41,6 +42,8 @@ All fields/sections are optional, so a missing field/section should not break th
 
 ### Education
 
+No. of items: 0 or more.
+
 | Field       | Type   | Example                      |
 | ----------- | ------ | ---------------------------- |
 | Description | String | `"I learned how to..."`      |
@@ -51,6 +54,8 @@ All fields/sections are optional, so a missing field/section should not break th
 
 ### Skills
 
+No. of items: 0 or more.
+
 | Field | Type                       | Example             |
 | ----- | -------------------------- | ------------------- |
 | Level | `1`, `2`, `3`, `4`, or `5` | `3`                 |
@@ -58,17 +63,17 @@ All fields/sections are optional, so a missing field/section should not break th
 
 ## Process
 
-1. You go out there and come back with 2-3 references
-2. We agree on them
-2. You deliver the first draft
-3. We iterate until it's pixel-perfect 💅🏻
+1. You go out there and get us 2-3 references ;
+2. We agree on them ;
+2. You deliver the first draft ;
+3. We iterate until it's pixel-perfect 💅🏻.
 
 ## Resources
 
-Articles that'll elevate your mind (eventually) and make you design better resumes:
-- [6 Resume Design Tips and Examples](https://blog.fiverr.com/post/6-resume-design-tips-and-examples)
-- [How to Design Your Résumé: 15 Formatting and Layout Tips](https://www.careeraddict.com/resume-design)
+Articles that'll eventually elevate your mind and undoubtedly make you design better resumes:
+- [6 Resume Design Tips and Examples](https://blog.fiverr.com/post/6-resume-design-tips-and-examples) ;
+- [How to Design Your Résumé: 15 Formatting and Layout Tips](https://www.careeraddict.com/resume-design).
 
 ## Wrapping up
 
-If you have any question, just let me know: [theophile@resume.studio](mailto:theophile@resume.studio).
+If you have any questions, just let me know: [theophile@resume.studio](mailto:theophile@resume.studio).
