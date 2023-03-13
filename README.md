@@ -49,8 +49,8 @@ No. of items: 0 or more.
 | Description | String | `"I learned how to..."`      |
 | End date    | String | `"2013"`                     |
 | Institution | String | `"Columbia University"`      |
+| Name        | String | `"MSc Accounting & Finance"` |
 | Start date  | String | `"2014"`                     |
-| Title       | String | `"MSc Accounting & Finance"` |
 
 ### Skills
 
@@ -58,7 +58,6 @@ No. of items: 0 or more.
 
 | Field | Type                       | Example             |
 | ----- | -------------------------- | ------------------- |
-| Level | `1`, `2`, `3`, `4`, or `5` | `3`                 |
 | Title | String                     | `"Problem Solving"` |
 
 ## Content
